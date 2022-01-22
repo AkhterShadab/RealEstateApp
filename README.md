@@ -3,6 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Access- https://real-estate-app-delta-bay.vercel.app/
 
 An amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more.
+ReactJS, Next.js, static generation, and server-side rendering
+User Interface using #ChakraUI.
+fetching data from unlimited sources using RapidAPI.
+
 
 ## Deploy on Vercel
 
