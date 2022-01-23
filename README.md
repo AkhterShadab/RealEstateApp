@@ -1,15 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Access- https://real-estate-app-delta-bay.vercel.app/
+## Real Estate 
+A fully functional website that allows you to manage properties available for sale or rent through the intuitive admin panel. It comes with great search functionality which allows users to search for properties by multiple criteria.</br>
+ReactJS, Next.js, static generation, and server-side rendering.</br>
+User Interface using #ChakraUI.</br>
+fetching data from unlimited sources using RapidAPI.</br>
 
-An amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more.
-ReactJS, Next.js, static generation, and server-side rendering
-User Interface using #ChakraUI.
-fetching data from unlimited sources using RapidAPI.
-
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Features
+ Powerful search component</br>
+ Customisable look and feel</br>
+ Easily extendable</br>
+ Search engine friendly</br>
+ Mobile friendly responsive layout</br>
+ Fully open source</br>
+ 
+ ![image](https://user-images.githubusercontent.com/69979674/150669830-94817053-4f23-49e9-8425-146a96f87a83.png)
+![image](https://user-images.githubusercontent.com/69979674/150669846-b77b5878-be85-4817-8fd1-95823ca097d5.png)
+![image](https://user-images.githubusercontent.com/69979674/150669860-aa358a1b-b45e-4151-956b-aacd8b4cbcaa.png)
